@@ -152,4 +152,3 @@ class JednaScenaZAntyoksydantemBezNakladania(Scene):
 
 
 
-# manim schemat_wolnego_rodnika2.py JednaScenaZAntyoksydantemBezNakladania -p -qk
